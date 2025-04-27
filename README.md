@@ -78,7 +78,7 @@ Throughout this exercise, I used the following resources:
 - R documentation for date conversion techniques
 - Stack Overflow for handling mixed date formats
 - R Graphics Cookbook for visualization guidance
-- Perplexity AI for figuring out the excel date to normal date format and other minor works. LINK:[Perplexity prompt](https://www.perplexity.ai/search/how-to-convert-excel-date-to-d-hDQna6sAQca7FWZEqKvwXA)
+- Perplexity AI for figuring out the excel date to normal date format and other minor works. LINK: [Perplexity prompt](https://www.perplexity.ai/search/how-to-convert-excel-date-to-d-hDQna6sAQca7FWZEqKvwXA)
 
 ## Visualization Interpretation
 
